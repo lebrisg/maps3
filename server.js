@@ -8,6 +8,8 @@ Object.assign=require('object-assign')
 app.engine('html', require('ejs').renderFile);
 app.use(morgan('combined'))
 
+app.use(express.static(_dirname + '/views'));
+
 var port = process.env.PORT || process.env.OPENSHIFT_NODEJS_PORT || 8080,
     ip   = process.env.IP   || process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0',
     mongoURL = process.env.OPENSHIFT_MONGODB_DB_URL || process.env.MONGO_URL,
@@ -76,9 +78,9 @@ var initDb = function(callback) {
 app.get('/', function (req, res) {
   // try to initialize the db on every request if it's not already
   // initialized.
-  if (!db) {
-    initDb(function(err){});
-  }
+  //if (!db) {
+  //  initDb(function(err){});
+  //}
   //if (db) {
   //  var col = db.collection('counts');
     // Create a document with request IP and current time of request
@@ -90,8 +92,10 @@ app.get('/', function (req, res) {
   //    res.render('index.html');
   //  });
   //} else {
-    res.render('index.html');
+  //  res.render('index.html');
   //}
+  res.writeHead(200, { 'Content-Type': 'text/html' });
+  res.end('<html>Fine!</html>');
 });
 
 //app.get('/pagecount', function (req, res) {
@@ -121,5 +125,6 @@ initDb(function(err){
 
 app.listen(port, ip);
 console.log('Server running on http://%s:%s', ip, port);
+initDb(function(err){});
 
 module.exports = app ;
