@@ -94,8 +94,9 @@ app.get('/', function (req, res) {
   //} else {
   //  res.render('index.html');
   //}
-  res.writeHead(200, { 'Content-Type': 'text/html' });
-  res.end('<html>Fine!</html>');
+//  res.writeHead(200, { 'Content-Type': 'text/html' });
+//  res.end('<html>Fine!</html>');
+  res.render('index.html');
 });
 
 //app.get('/pagecount', function (req, res) {
