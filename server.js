@@ -96,7 +96,7 @@ app.get('/', function (req, res) {
   //}
 //  res.writeHead(200, { 'Content-Type': 'text/html' });
 //  res.end('<html>Fine!</html>');
-  res.render('index.html');
+  res.render('index2.html');
 });
 
 //app.get('/pagecount', function (req, res) {
