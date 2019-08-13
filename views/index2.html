@@ -42,17 +42,14 @@
             maxZoom: 18,
             attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
           }).addTo(map);
-          //$.getJSON("bus.geojson",function(data){
-          //  L.geoJson(data).addTo(map);
-          //});
 
-          var popup = L.popup();
-          map.on('click', function(e) {
-            popup
-              .setLatLng(e.latlng)
-              .setContent(e.latlng.toString())
-              .openOn(map)
-          });
+        //  var popup = L.popup();
+        //  map.on('click', function(e) {
+        //    popup
+        //      .setLatLng(e.latlng)
+        //      .setContent(e.latlng.toString())
+        //      .openOn(map)
+        //  });
         </script>
 </body>
 </html>
