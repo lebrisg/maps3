@@ -5,11 +5,6 @@
         <link rel="stylesheet" href="http://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
           integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
           crossorigin=""/>
-        <!--[if lte IE 8]>
-        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
-        <![endif]-->
-        <link href='http://fonts.googleapis.com/css?family=Milonga' rel='stylesheet' type='text/css'>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <style type="text/css">
                 body {
                     padding: 0;
@@ -17,7 +12,6 @@
                 }
                 html, body, #map {
                     height: 100%;
-                    font-family: 'Milonga', cursive;
                 }
                 .leaflet-container .leaflet-control-zoom {
                     margin-left: 13px;
@@ -42,14 +36,6 @@
             maxZoom: 18,
             attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
           }).addTo(map);
-
-        //  var popup = L.popup();
-        //  map.on('click', function(e) {
-        //    popup
-        //      .setLatLng(e.latlng)
-        //      .setContent(e.latlng.toString())
-        //      .openOn(map)
-        //  });
         </script>
 </body>
 </html>
