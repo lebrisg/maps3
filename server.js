@@ -126,9 +126,12 @@ initDb(function(err){
 
 app.listen(port, ip);
 console.log('Server running on http://%s:%s', ip, port);
-initDb(function(err){});
-var col = db.collection('pois');
-poi = col.findOne();
-console.log('POI: [%s, %s]', poi.long, poi.lat);
-
+if (!db) {
+  initDb(function(err){});
+}
+if (db) {
+  var col = db.collection('pois');
+  poi = col.findOne();
+  console.log('POI: [%s, %s]', poi.long, poi.lat);
+}
 module.exports = app ;
