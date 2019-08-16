@@ -46,7 +46,7 @@
           }).addTo(map);
           var col = db.collection('pois');
           poi = col.findOne();
-          map.setView(poi.lat, poi.long);
+          map.setView([poi.lat, poi.long], 14);
           //$.getJSON("bus.geojson",function(data){
           //  L.geoJson(data).addTo(map);
           //});
