@@ -44,6 +44,9 @@
             maxZoom: 18,
             attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
           }).addTo(map);
+          var col = db.collection('pois');
+          poi = col.findOne();
+          map.setView(poi.lat, poi.long);
           //$.getJSON("bus.geojson",function(data){
           //  L.geoJson(data).addTo(map);
           //});
