@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Nom": "Wall St/Pier 11", "Lieu": "Pier 11", "Metro": "Wall Street", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.005499,40.70244 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Nom": "Corlears Hook", "Lieu": "Pier 42", "Metro": "East Broadway", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.978071,40.710573 ] } }
+]
+}

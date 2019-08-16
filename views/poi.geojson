@@ -1,0 +1,109 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Nom": "AirBnB Bristol", "Lieu": "4 Freeland Buildings, BS5 6LD, Bristol", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.558548, 51.472074 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Nom": "Clifton Suspension Bridge", "Lieu": "Suspension Bridge Road", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.627835, 51.454956 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Nom": "Ashton Court Golf Course", "Lieu": "Ashton Court Golf Course", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.644068, 51.451115 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Nom": "Observatoire", "Lieu": "Suspension Bridge Road", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.626398, 51.456651 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Nom": "Zoo", "Lieu": "College Rd, Clifton, Bristol BS8 3HA", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.622095, 51.463332 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Nom": "Pipal Tree Restaurant", "Lieu": "28 Chelsea Rd, Bristol BS5 6AF", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.562888, 51.463202 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Nom": "The Mall", "Lieu": "Kessels Rd, Patchway, Bristol BS34 5DG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.59544, 51.5253 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Nom": "Millenium Car Park", "Lieu": "Explore Ln, Bristol BS1 5SZ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.600477, 51.449293 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Nom": "Centre ville", "Lieu": "69 Broadmead, Bristol BS1 3DX", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.589104, 51.457711 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Nom": "We The Curious", "Lieu": "One Millenium Square, Anchor Rd, Bristol BS1 5DB", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.600348, 51.45047 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Nom": "SS Great Britain", "Lieu": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.607558, 51.448591 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Nom": "Cathedrale de Bristol", "Lieu": "College Green, Bristol BS1 5TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.600557, 51.45169 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Nom": "St Nicholas Market", "Lieu": "The Corn Exchange, Corn St, Bristol BS1 1JQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.592296, 51.454184 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Nom": "M Shed", "Lieu": "Princes Wharf, Wapping Rd, Bristol BS1 4RN", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.598095, 51.447648 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Nom": "Tourist Information Centre", "Lieu": "E Shed, 1 Canon's Rd, Bristol BS1 5TX", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.598131, 51.451941 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Nom": "Immotion VR", "Lieu": "69a, Glass Walk, Cabot Circus, Bristol BS1 3BQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.58558, 51.458543 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Nom": "Smoke & Mirrors", "Lieu": "8 Denmark St, Bristol BS1 5DQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.598969, 51.452941 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Nom": "Hart's Bakery", "Lieu": "35 Lower Approach Rd, Bristol BS1 6QS", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.581878, 51.449019 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Nom": "Three Brothers Burgers", "Lieu": "Welsh Back, Bristol BS1 4SB", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.592339, 51.452265 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Nom": "Za Za Bazaar", "Lieu": "Harbourside, Canon's Rd, Bristol BS1 5UH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.598465, 51.45055 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Nom": "Cabot Tower", "Lieu": "Brandon Hill Park, Park St, Bristol BS1 5RR", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.606817, 51.453984 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Nom": "Roman Baths", "Lieu": "Stall St, Bath BA1 1LZ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.359748, 51.380962 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "Nom": "Royal Crescent", "Lieu": "1 Royal Cres, Bath BA1 2LR", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.367216, 51.386593 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "Nom": "The Circus", "Lieu": "Bath BA1 2ET", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.364051, 51.385967 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "Nom": "Queen Square", "Lieu": "273 Queen Square, Bath BA1 2HH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.363632, 51.38348 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "Nom": "Scallop Shell Restaurant", "Lieu": "22 Monmouth Pl, Bath BA1 2AY", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.365751, 51.382954 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "Nom": "Tourist Information", "Lieu": "2 Terrace Walk, Bath BA1 1LN", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.357962, 51.380865 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "Nom": "Pulteney Bridge", "Lieu": "Bridge St, Bath BA2 4AT", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.357908, 51.383044 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "Nom": "SouthGate Car Park", "Lieu": "Southgate St, Bath BA1 1AQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.359282, 51.379037 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "Nom": "Manvers St Car Park", "Lieu": "5A Manvers St, Bath BA1 1JQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.356632, 51.379757 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "Nom": "Charlotte St Car Park", "Lieu": "Charlotte St, Bath BA1 2NE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.366728, 51.384236 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "Nom": "Assembly Rooms", "Lieu": "Bennett St, Bath BA1 2QH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.362812, 51.386362 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "Nom": "Bath Abbey", "Lieu": "Bath BA1 1L", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.358713, 51.38148 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "Nom": "Krowd Keepers", "Lieu": "The Ale House, 1 York St, Bath BA1 1NG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.358043, 51.380945 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "Nom": "Herschel Museum", "Lieu": "19 New King St, Bath BA1 2BL", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.367125, 51.382562 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "Nom": "The Whole Bagel", "Lieu": "8 Upper Borough Walls, Bath BA1 1RG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.360172, 51.38276 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "Nom": "The Cornish Bakery", "Lieu": "7 Abbey Churchyard, Bath BA1 1LY", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.360103, 51.381367 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "Nom": "The Green Bird Cafe", "Lieu": "Margaret's, 11 Margaret's Buildings, Bath BA1 2LP", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.365741, 51.38667 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "Nom": "Cafe Retro", "Lieu": "18 York St, Bath BA1 1NG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.357925, 51.381072 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "Nom": "Cafe Lucca", "Lieu": "1-2 Bartlett St, Bath BA1 2QZ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.361841, 51.385475 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "Nom": "Cathedrale", "Lieu": "6 The Close, Salisbury SP1 2EJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.797938, 51.064904 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "Nom": "Stonehenge", "Lieu": "Salisbury SP4 7DE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.857349, 51.184448 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "Nom": "Cardiff Castle", "Lieu": "Castle St, Cardiff CF10 3R", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.182087, 51.481486 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "Nom": "Techniquest", "Lieu": "Stuart St, Cardiff CF10 5BW", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.167732, 51.462677 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "Nom": "Tourist Information/Story Museum", "Lieu": "The Old Library, The Hayes, Cardiff CF10 1BH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.177275, 51.480016 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "Nom": "Central Market", "Lieu": "49 St Mary St, Cardiff CF10 1AU", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.17845, 51.480167 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "Nom": "The Plan", "Lieu": "28-29 Morgan Arcade, Cardiff CF10 1AF", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.177044, 51.478837 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "Nom": "Cafe Minuet", "Lieu": "42 Castle Arcade, Cardiff CF10 1BW", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.179244, 51.480925 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "Nom": "Cafe Citta", "Lieu": "4 Church St, Cardiff CF10 1BG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.179297, 51.480501 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "Nom": "The Potted Pig", "Lieu": "27 High St, Cardiff CF10 1PU", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.180504, 51.480772 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "Nom": "Go Ape Margam/Accrobranche/goape.co.uk", "Lieu": "Margam Country Park South South Wales, Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.732305, 51.557983 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "Nom": "Margam Castle", "Lieu": "Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.724934, 51.562815 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Nom": "Century 21", "Lieu": "21 Dey St", "Metro": "Cortland Street Station", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.010408,40.710646 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Nom": "NYC Citystore", "Lieu": "1 Centre St", "Metro": "Chambers St", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.003536,40.713391 ] } }
+]
+}

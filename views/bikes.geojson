@@ -1,0 +1,63 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Nom": "Tremont St/Northampton St", "Lieu": "Tremont St/Northampton St", "Metro": "Massachusetts Ave", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -71.081441,42.338899 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Nom": "Columbus Ave/Massachusetts Ave", "Lieu": "Columbus Ave/Massachusetts Ave", "Metro": "Massachusetts Ave", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -71.081505,42.340624 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Nom": "Washington St/Lenox St", "Lieu": "Washington St/Lenox St", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -71.079086,42.33497 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Nom": "Dorchester Ave/Dexter St", "Lieu": "Dorchester Ave/Dexter St", "Metro": "Andrew", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -71.057044,42.330576 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Nom": "Columbia Rd/Tierney Community Center", "Lieu": "Columbia Rd/Tierney Community Center", "Metro": "Andrew", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -71.050553,42.330314 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Nom": "W Broadway/D St", "Lieu": "W Broadway/D St", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -71.05147,42.339097 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Nom": "Massachusetts Ave & 6th St NE", "Lieu": "Massachusetts Ave & 6th St NE", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -76.998271,38.892895 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Nom": "4th & East Capitol St NE", "Lieu": "4th & East Capitol St NE", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.000363,38.889914 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Nom": "3rd St & Pennsylvania Ave SE", "Lieu": "3rd St & Pennsylvania Ave SE", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.001967,38.887346 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Nom": "7th St & Massachusetts Ave NE", "Lieu": "7th St & Massachusetts Ave NE", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -76.996023,38.892206 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Nom": "4th & C St SW", "Lieu": "4th & C St SW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.017711,38.886356 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Nom": "L'Enfant Plaza / 7th & C St SW", "Lieu": "L'Enfant Plaza / 7th & C St SW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.022239,38.886231 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Nom": "4th St & Madison Dr NW", "Lieu": "4th St & Madison Dr NW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.017261,38.890465 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Nom": "10th St & Constitution Ave NW", "Lieu": "10th St & Constitution Ave NW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.026016,38.892987 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Nom": "Smithsonian-National Mall / Jefferson Dr & 12th St SW", "Lieu": "Smithsonian-National Mall / Jefferson Dr & 12th St SW", "Metro": "Smithsonian Station", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.02858,38.888736 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Nom": "15th St & Constitution Ave NW", "Lieu": "15th St & Constitution Ave NW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.033257,38.892219 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Nom": "Jefferson Dr & 14th St SW", "Lieu": "Jefferson Dr & 14th St SW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.032464,38.888511 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Nom": "17th St & Independence Ave SW", "Lieu": "17th St & Independence Ave SW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.038461,38.888093 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Nom": "Jefferson Memorial", "Lieu": "Jefferson Memorial", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.03741,38.879804 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Nom": "Lincoln Memorial", "Lieu": "Lincoln Memorial", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.049447,38.888235 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Nom": "Henry Bacon Dr & Lincoln Memorial Circle NW", "Lieu": "Henry Bacon Dr & Lincoln Memorial Circle NW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.049227,38.890624 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "Nom": "17th & G St NW", "Lieu": "17th & G St NW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.039872,38.898394 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "Nom": "New York Ave & 15th St NW", "Lieu": "New York Ave & 15th St NW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.033359,38.899062 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "Nom": "15th St & Pennsylvania Ave NW", "Lieu": "15th St & Pennsylvania Ave NW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.033386,38.896339 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "Nom": "6th St & Indiana Ave NW", "Lieu": "6th St & Indiana Ave NW", "Metro": "", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.019943,38.89454 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "Nom": "Columbus Circle / Union Station", "Lieu": "Columbus Circle / Union Station", "Metro": "Union Station", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.004933,38.89692 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "Nom": "Washington & Independence Ave SW/HHS", "Lieu": "Washington & Independence Ave SW/HHS", "Metro": "Union Station", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.013785,38.886949 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "Nom": "Constitution Ave & 2nd St NW/DOL", "Lieu": "Constitution Ave & 2nd St NW/DOL", "Metro": "Union Station", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -77.013919,38.892269 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "Nom": "Eastern Market / 7th & North Caroline Ave SE", "Lieu": "Eastern Market / 7th & North Caroline Ave SE", "Metro": "Union Station", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -76.996806,38.886928 ] } }
+]
+}

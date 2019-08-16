@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Nom": "Roosevelt Island Tram station", "Lieu": "2nd Ave & 60th St", "Metro": "59th Street", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.96421,40.761203 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Nom": "Roosevelt Island Tram station", "Lieu": "Roosevelt Island", "Metro": "Roosevelt Island", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.954119,40.757307 ] } }
+]
+}
